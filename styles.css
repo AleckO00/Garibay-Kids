@@ -789,7 +789,7 @@ form button:hover {
 
   .historia .imagen {
     justify-content: center;
-    margin-top: 2.5rem; /* separa la imagen del texto */
+    margin-top: 3.5rem; /* separa la imagen del texto */
   }
 
   .imagen-curva {
@@ -800,7 +800,7 @@ form button:hover {
   }
 
   .botones {
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
 
 }
